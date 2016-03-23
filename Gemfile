@@ -32,6 +32,12 @@ gem 'sdoc', '~> 0.4.0', group: :doc
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+#Device gem
+gem 'devise'
+
+#Print Ruby Object  with Color and Identation
+gem 'awesome_print'
+# Heroku Integration
 gem 'rails_12factor', group: :production
 
 group :development, :test do
