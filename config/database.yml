@@ -20,7 +20,7 @@ default: &default
   username: saas
   password: saas
   host: localhost
-  port: 5432
+  port: 5432 
   # For details on connection pooling, see rails configuration guide
   # http://guides.rubyonrails.org/configuring.html#database-pooling
   pool: 5
